@@ -3,7 +3,7 @@ deployment:
   image:
     owner: ramsjenu
     repository: pythonflaskapp
-    tag: 475b3b34ecb1cd1b6eb96e5b8f0676c6abc00e84
+    tag: 8527365d0c254a2198ff603d50c907315e6aa60b
   container:
     name: pythonflaskapp
     port: 80
