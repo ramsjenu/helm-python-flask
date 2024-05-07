@@ -7,7 +7,7 @@ keywords:
   - python
   - flask
 # sources:
-#   - https://github.com/mathesh-me/helm-python-flask-app
+#   - https://github.com/ramsjenu/helm-python-flask-app
 maintainers:
   - name: Ramanathan V
     email: vramschennai@gmail.com
