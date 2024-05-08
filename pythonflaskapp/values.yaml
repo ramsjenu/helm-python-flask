@@ -1,5 +1,5 @@
 deployment:
-  replicas: 2
+  replicas: 0
   image:
     owner: ramsjenu
     repository: pythonflaskapp
