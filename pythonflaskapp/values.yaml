@@ -11,4 +11,4 @@ service:
   type: NodePort
   port: 80
   targetPort: 80
-  nodePort: 31507
+  nodePort: 31508
