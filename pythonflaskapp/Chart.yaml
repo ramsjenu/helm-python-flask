@@ -6,8 +6,8 @@ type: application
 keywords:
   - python
   - flask
-sources:
-  - https://github.com/ramsjenu/python-flask-app
+#sources:
+#  - https://github.com/ramsjenu/python-flask-app
 maintainers:
   - name: Ramanathan V
     email: vramschennai@gmail.com
